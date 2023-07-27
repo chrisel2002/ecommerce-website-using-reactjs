@@ -1,0 +1,38 @@
+
+
+.bt{
+    margin: auto;
+    width: 25rem;
+    display: block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;;
+}
+.buy{
+    margin: auto;
+    width: 25rem;
+    display: block;
+    text-align: center;
+    align-items: center;
+    justify-content: center; 
+}
+.qty{
+    margin: auto;
+    width: 5rem;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: "10px";
+    
+     
+}
+.minus{
+    margin: auto;
+    width: 5rem;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    margin-right: "10px"; 
+}
